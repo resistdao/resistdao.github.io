@@ -1,3 +1,0 @@
-
-
-![profile](images/profile.png)
